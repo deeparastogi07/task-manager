@@ -29,7 +29,7 @@ Built to practice full-stack development and CRUD operations.
 
 ## 🌐 Live Demo
 
-https://your-demo-link.com
+https://task-manager-six-swart-59.vercel.app/
 
 ---
 
@@ -43,4 +43,3 @@ cd task-manager
 npm install
 npm run dev
 ```
----
